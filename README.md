@@ -7,11 +7,11 @@ A suite of tutorials on data collection, analysis methods, and visualization tec
 
 ## Open-Source Science
 
-From NASA'S Open-Source Science Initiative (OSSI):
+From NASA'S Open-Source Science Initiative ([OSSI](https://science.nasa.gov/open-science-overview)):
 > Open-source science requires a culture shift to a more inclusive, transparent, and collaborative scientific process, which will increase the pace and quality of scientific progress.
 
-As part of the OSSI, course materials are being developed for Open Science 101, also called **OpenCore**.  Beyond the basics, it is often difficult
-to find the time or motivation to study something not specifically applicable to our current workloads.  Enter ***ScienceCore***: 
+As part of the OSSI, course materials are being developed for [Open Science 101](https://nasa.github.io/Transform-to-Open-Science/open-science-101), also called **OpenCore**.  Beyond the basics, it is often difficult
+to find the time or motivation to study something not specifically applicable to our current workloads.  Enter **ScienceCore**: 
 > ScienceCore is a curriculum of discipline-specific materials that showcase open-science workflows.
 
 ## Scope
