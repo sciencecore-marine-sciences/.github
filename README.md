@@ -1,6 +1,6 @@
 # ScienceCore for Marine Sciences
 
-A suite of tutorials on data collection, analysis methods, and visualization techniques used in physical oceanography and biogeochemistry created by retracing the steps needed to reproduce results from two published articles([1,2](https://github.com/TOPS-Marine-ScienceCore/.github/blob/main/README.md#references)) on:
+A suite of tutorials on data collection, analysis methods, and visualization techniques used in physical oceanography and biogeochemistry created by retracing the steps needed to reproduce results from two published articles([1,2](https://github.com/sciencecore-marine-sciences/.github/blob/main/README.md#references)) on:
 1. combining field data with satellite data to understand the sea surface temperature conditions associated with a hurricane undergoing rapid intensification over the continental shelf
 2. using locally calibrated satellite products to improve the satellite estimation of the partial pressure of carbon dioxide in coastal waters
 
