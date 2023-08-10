@@ -29,7 +29,8 @@ Scientific conclusions are made by domain scientists, often with decades of expe
 
 This effort is funded by NASA's [Transform to Open Science](https://nasa.github.io/Transform-to-Open-Science) Training (TOPST) program under award 80NSSC23K0863 to North Carolina State University with University of South Alabama.
 
-See the [Proposal Summary](proposal-summary.md) for more details.
+See the [Proposal Summary](proposal-summary.md) for more details. The full proposal submitted for the award is on Zenodo:
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8231666.svg)](https://doi.org/10.5281/zenodo.8231666)
 
 [Get started with Open Science!](https://nasa.github.io/Transform-to-Open-Science-Book/Open_Science_Cookbook/Your_Open_Science_Journey.html#section-1-core-open-science-skills)
 
